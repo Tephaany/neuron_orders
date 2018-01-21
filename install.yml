@@ -7,5 +7,5 @@
   tasks:
     - name: "Install pip dependencies"
       debug:
-          msg: "No pip packages required"
+          msg: "no pip packages required"
 
