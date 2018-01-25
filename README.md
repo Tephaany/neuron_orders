@@ -1,8 +1,9 @@
-# list_available_orders
+# intelora-list_available_orders
+A Neuron that gets the list of available orders
 
 ## Synopsis
 
-Get the list of available orders
+Make Intelora get the list of available orders
 
 ## Install
 
